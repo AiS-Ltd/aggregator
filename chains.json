@@ -35,8 +35,6 @@
 			"decimals": 18
 		},
 		"rpc": [
-			"https://nd-233-026-729.p2pify.com/4d072eb4598e7a592b8d18c5ac7b2d61",
-			"wss://ws-nd-233-026-729.p2pify.com/4d072eb4598e7a592b8d18c5ac7b2d61",
 			"https://bsc-dataseed1.binance.org",
 			"https://bsc-dataseed2.binance.org",
 			"https://bsc-dataseed3.binance.org",
@@ -71,8 +69,6 @@
 			"decimals": 18
 		},
 		"rpc": [
-			"https://nd-006-375-626.p2pify.com/7d7fc1a2b5dd8f7a51697c940dd6fe33",
-			"wss://ws-nd-006-375-626.p2pify.com/7d7fc1a2b5dd8f7a51697c940dd6fe33",
 			"https://data-seed-prebsc-1-s1.binance.org:8545",
 			"https://data-seed-prebsc-2-s1.binance.org:8545",
 			"https://data-seed-prebsc-1-s2.binance.org:8545",
